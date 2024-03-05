@@ -2,8 +2,8 @@
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning Nodejs
 - 📫 How to reach me trbochrgdpenguin@gmail.com
-- 😄 Pronouns: he/him/smart
-- ⚡ Fun fact: My favourite song is Sleepless Nights (https://music.apple.com/in/album/sleepless-nights-feat-nightly/1433987524?i=1433987959)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My favourite song is Apollo (https://music.apple.com/in/album/apollo-feat-cenji-juu/1419643130?i=1419643137)
 
 <!---
 aurum-dee/aurum-dee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
